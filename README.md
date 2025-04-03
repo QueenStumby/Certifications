@@ -1,8 +1,7 @@
-# Brainstorming & Research  
-This is my safe space for ideas, project manuals, cheat codes, and research notes.
+# Certifications  
+This repo stores all the certifications I’ve earned in software development.
 
-### Sections  
-- 📝 Ideas for future projects  
-- 🔍 Research topics  
-- 📌 Code snippets & best practices  
-# Brainstorming
+### Certifications List  
+- [ ] FreeCodeCamp Responsive Web Design  
+- [ ] AWS Cloud Practitioner  
+- [ ] JavaScript Algorithms & Data Structures  
